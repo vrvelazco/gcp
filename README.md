@@ -80,8 +80,10 @@ http://35.196.114.160//square?number=4
 
 Testing Vm
 
-
 ip 35.192.12.145
+
 puerto 22
+
 user victor
+
 Contraseña Facil123
