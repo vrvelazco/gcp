@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mypythonapp
+  namespace: default
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      run: mypythonapp
+  template:
+    metadata:
+      labels:
+        run: mypythonapp
+    spec:
+      containers:
+      - image: gcr.io/centering-aegis-327602/mypythonapp
+        imagePullPolicy: Always
+        name: mypythonapp
+        ports:
+        - containerPort: 80
+          protocol: TCP
