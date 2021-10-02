@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "centering-aegis-327602",
+  "private_key_id": "dce0d4a083a25491b710f08582a7876ec1673188",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClQFhZEPOnl4Jc\nV00ewUt2QIr/iMLT9j1cKVpFF+WXX15haIo42NFXEV/sPMZW6L9hrZI0RyJpJtpH\n2osqbrwJLlv5hvM6W9gbCIXGSTRxeTQsz68VcuriulYGaVS8xkrOb0CxFPWwYRSy\nW0tYICa+J5aNeTZOec3w+AiRqO3PWOPVNToPqP7oFr5lVtkIC8p35XpxOf1IBz4q\nx4uNFint5PPhP/LhhPqjO2y172Vh8iH7/GD5piOFBeQ2frYljizykKaI7V9vjPGj\nS+53N6+3cemS6wcE/NA2vTm9rQzdHrPwHt360TK4W2sib3Pu8PuQXon7RhxW/pVR\nrXbPbXrxAgMBAAECggEAQy1/POXpR04OTp+m2EPX+4CNgQgFu8k0dIzTB5eJXBoG\n8i5fUnDB2VVU22Jxds8zTfATqXDpijmjLuanAF73zfuspCm6IxVHKuYyC8OisCaH\nkVf0YxHObtE1O3ICYqNxsa4EbHiK0GMG2OLIJFEdrtvFFkoaS5i0oasTQLOdyVZA\nF18odHjkFoYq4WGGYQld9gPET7FfhqaT2rLtHDpq2LydV7xZRq7HdNfHJ6mkK5Wv\nsEulY2HQ70VNpPTSJ/RcB91hOK49UAIlNeRZKgCasDs3+JVDGkp6t0PCNG6MJRp1\nhXEprNhgu5b7Y9NYsYm/+4pmkhQ+5DM03J/Dlap4KQKBgQDWmk+2f6SV7TSlvBi8\ncqJi8KRrmqeAVMmYGJf1G5NRqYkmcDsdpsgWw91muMYKDYmy1XBeUEUwbxb7iZol\nEer8VhZRN93KUim9+5OpBCZLeEvU2wCsm3Qlki+iL0rTqOmSQvI8zr51iagfLNBZ\nfl1WbqyuGiCxHYY+MURWOi4+CwKBgQDFIOvbgbTN/og4c58CjrAdwdoMLA5Q0280\n3ba/hRk7l7YWPCxG/SAIhkMFvpSwjHyerSKpXbACKUOXxBp7KTbNQNCSfHqgJLb1\n2bWg2Io+3C2X19zdhSxL2A1bXUF9cxn9c6/466KvJ1ynUCFRZONYhGTBkNPFvGZc\njDJ4TGRUcwKBgQCQA4Yy5n3AzyphflTrQdKPqwXr4CFAEaYnl3mCVzsJtkf/r5k8\nUMw92rsdUCo2XNdnV6zM3flQg3xc2P7Emb2kEPFxF5iTSYgRol55Mfuw8c2RzlYp\nfzj2bZ/hqvMAD36PVLXS8LsHjZVxNlWreQ2SDzt6qrX9pd6MpetCIlEd+QKBgBNM\ndcq3mAvSr2NXbmnBrlw7bi1i4sPm7ywtyIZXcXD0GU9z9KG+hjRPcKBPWB8wocKn\nEI2kLmcHwyZIfI8yKbtObRzqMtcawQ6wkad9i4s74vrKl0TYlM2YCTa4moC9k/3M\nJZ4o83RSVi/LGHfveJJh47tPgmwJVbwZvZcpY2khAoGBAKIhqbiuh6CEWZ1gIZbu\nFKvw2pvTS7YiB2K6xsJwEE2gUIpciRnnZ2twwCoHFIRAiY0zcdRdeVb58usAekWc\nd39dWp+7Dtyc9UScFIlE2sX0GsjiD3Td/0cUc8bfI3G3LPZsOXsfLoh7gsn8Vrs1\nkBeGoQ+mjjE4ncUv5/aChLdv\n-----END PRIVATE KEY-----\n",
+  "client_email": "app-iaac@centering-aegis-327602.iam.gserviceaccount.com",
+  "client_id": "112826827937141711668",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/app-iaac%40centering-aegis-327602.iam.gserviceaccount.com"
+}
