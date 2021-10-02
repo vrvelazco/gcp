@@ -1,6 +1,24 @@
 # gcp
 Challenge
 
+Requisitos:
+
+Windows 10 pro
+
+Git bash
+
+Visual Studio Code
+
+Docker Desktop
+
+Kubectl
+
+Python
+
+Ansible
+
+Empezamos:
+
 1- Crear una cuenta en https://cloud.google.com/
 
 2- Crear una cuenta de servicio en https://console.cloud.google.com/ y asginar roles
@@ -50,3 +68,20 @@ Challenge
     
 
 
+Testing App
+
+/greetings:
+
+http://35.196.114.160/greetings
+
+/square:
+
+http://35.196.114.160//square?number=4
+
+Testing Vm
+
+
+ip 35.192.12.145
+puerto 22
+user victor
+Contraseña Facil123
